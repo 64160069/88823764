@@ -1,0 +1,11 @@
+.title {
+    font-family: monospace;
+    text-align: center;
+    font-weight: bold;
+}
+
+form {
+    text-align: center;
+    font-size: larger;
+    font-family: monospace;
+}
