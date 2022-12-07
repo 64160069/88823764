@@ -1,0 +1,22 @@
+h1 {
+    color: aquamarine;
+    text-align: center;
+    background-color: red;
+}
+
+* {
+    font-family: monospace;
+}
+
+.mybox {
+    border: 2px solid lightblue;
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    margin: 100px;
+    border-radius: 20px;
+    background-image: 420;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
